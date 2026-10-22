@@ -5,7 +5,7 @@
 
 `<DATES>`, 2026
 
-- `<course catalogue link for 2026>` (2025: https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2025/003/SM/50533134)
+- https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2026/003/SM/50533134
 
 
 ## Plan (draft)

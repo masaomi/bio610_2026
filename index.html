@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RNA-seq with Omics-Studio and OMAKASE — Bio610 2026</title>
+<!-- The lecture deck lives at https://genomicschain.ch/bio610/lecture (with a question box on every slide).
+     This page shows it in a full-window frame. The note is shown while the frame loads, and stays in a
+     corner afterwards so the direct link can always be clicked. -->
+<style>
+  html, body { margin: 0; height: 100%; background: #001428; color: #c3ccd6;
+               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }
+  .note { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; text-align: center; padding: 24px; }
+  .note a { color: #4dc9f6; }
+  iframe { position: fixed; inset: 0; width: 100%; height: 100%; border: 0; background: #001428; }
+  body.loaded .note { inset: 8px 8px auto auto; padding: 0; z-index: 2; font-size: 11px; opacity: .55; }
+  body.loaded .note p { margin: 0; }
+  body.loaded .note .wait { display: none; }
+</style>
+</head>
+<body>
+<div class="note"><p><span class="wait">Loading the slides…<br>If they do not appear, open </span><a
+  href="https://genomicschain.ch/bio610/lecture" target="_top">genomicschain.ch/bio610/lecture</a></p></div>
+<iframe id="deck" title="Bio610 2026 lecture slides" allow="fullscreen; clipboard-write"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<script>
+  // Open the slide named in this page's address (#m5 etc.), and give the frame the keyboard
+  // so the arrow keys turn slides without a click first.
+  var deck = document.getElementById('deck');
+  deck.src = 'https://genomicschain.ch/bio610/lecture' + (location.hash || '');
+  deck.addEventListener('load', function () { document.body.classList.add('loaded'); deck.focus(); });
+</script>
+</body>
+</html>

@@ -12,7 +12,7 @@
 9.00-10.00  | **Self introduction, lecture on research examples** 2026 (Ken)
 10.00-11.00 | **NGS lecture** 2026 (Rie)
 11.00-12.00 | **Transcriptomics lecture, Omics-Studio and OMAKASE system (Demo)** 2026 (Masa)
-13.00-14.00 | **Hands-on exercise (Omics-Studio and OMAKASE)** [Link](https://github.com/masaomi/bio610_2026_sushi_practice) (Masa)
+13.00-14.00 | **Hands-on exercise (Omics-Studio and OMAKASE)** [Link](https://github.com/masaomi/bio610_2026_practice) (Masa)
 14.00-17.00 | **Machine learning lecture, hands-on exercise** 2026 (Jun)
 
 **Day 2, 29 Oct. (Thu)** | &nbsp;

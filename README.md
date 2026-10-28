@@ -18,6 +18,9 @@
 Masa's slides (11.00-12.00 and 13.00-14.00): **https://masaomi.github.io/bio610_2026/** (open in a web browser; → next slide,
 ↑ find a slide by a word, **?** at the bottom left to ask an AI about the slide you are on, with the course code given in the lecture)
 
+PDF for download: [lecture](lecture_notes/omics_studio_lecture_2026.pdf) (54 pages, 3 MB) and
+[hands-on](lecture_notes/handson_2026.pdf) (41 pages, 10 MB)
+
 **Day 2, 29 Oct. (Thu)** | &nbsp;
 -------|-------
 9.00-12.00  | **Genomics and machine learning, lecture and exercise** 2026 (Jun)
